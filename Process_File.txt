@@ -1,0 +1,45 @@
+Technology used in the Online Food Delivery project in java.
+
+Requirement is:
+Browse Catalogue for food
+Search filter with restaurants ratings and price
+Order food
+
+Project title:Online Food Delivery project
+
+Front-End: Jsp, Html, CSS, JS.
+
+Server-side: Rest API ,Servlet.
+
+Back-end: MYSQL.
+
+Server: Tomcat 8.5.
+
+There will be Three main actor or user of the application
+◾User/Customer
+◾Admin/Manager
+◾Restaurant Owner
+
+Admin can handle all customers and restaurant owner.
+
+Admin can ADD/EDIT/DELETE/UPDATE restaurant records.
+
+Admin can ADD/EDIT/DELETE/UPDATE User records
+
+Admin can Manage the food categories.
+
+Admin can manage the payment details.
+
+Admin can track the order records.
+
+Restaurant can add new food in the list for the user view.
+
+Restaurant can view booking orders.
+
+User can view the food list and order a food.
+
+User can login and registration in the application and manage all the records like booking history.
+
+
+
+
